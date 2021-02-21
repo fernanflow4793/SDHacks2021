@@ -1,8 +1,8 @@
 {
-  "name": "Co-Learning",
+  "name": "Strong Password Generator",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Co-Learning",
+  "description": "Strong password generator",
   "icons": {
       "512": "logo512.png"
   },
